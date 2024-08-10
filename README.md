@@ -10,11 +10,3 @@ Aplicacion Spring Boot/Maven que expone una API REST.
 ```bash
 $ ./mvnw spring-boot:run
 ```
-
-## Uso
-
-Desde un navegador, ir a http://localhost:8080/v1/holamundo o desde una terminal ejecutar:
-
-```bash
-$ curl http://localhost:8080/v1/holamundo
-```
